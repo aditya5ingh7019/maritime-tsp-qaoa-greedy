@@ -114,6 +114,12 @@ This strategy decomposes the **global TSP into a sequence of small quantum decis
 
 ---
 
+# Results
+
+All experimental outputs (CSV tables and figures) are available in the results/ directory.
+
+---
+
 # Requirements
 
 Python **3.9+**
