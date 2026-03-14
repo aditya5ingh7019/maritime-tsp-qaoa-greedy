@@ -1,0 +1,12 @@
+﻿Algorithm,Tour Cost (km),Ratio vs LKH3,Ratio vs HC,Notes
+Random Search,64795,1.235,1.045,Best of 50000 trials
+Hill-Climbing,61984,1.181,1,20000 swap steps
+Nearest Neighbor,54193,1.033,0.874,Deterministic greedy
+LKH-3,52470,1,0.847,Optimal benchmark
+QA-Greedy default,91546,1.744,1.477,3 layers alpha=0.5 steps=300
+QA-Greedy best ablation,62963,1.2,1.016,1 layer alpha=0.5 steps=150
+QA-Greedy mean 8 seeds,77098,1.469,1.244,4 layers Mumbai start
+QA-Greedy Singapore mean,78531,1.496,1.267,6 layers Singapore start
+QA-Greedy qubit cap 4,66348,1.265,1.07,MAX_QUBITS=4 3 seeds
+QA-Greedy qubit cap 6,79565,1.516,1.284,MAX_QUBITS=6 3 seeds
+QA-Greedy qubit cap 8,92544,1.764,1.493,MAX_QUBITS=8 3 seeds

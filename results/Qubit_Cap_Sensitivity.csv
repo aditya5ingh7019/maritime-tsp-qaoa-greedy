@@ -1,0 +1,4 @@
+﻿MAX_QUBITS,Mean Cost (km),Std Dev (km),Ratio vs LKH3,Q Decisions,C Decisions,Q Influence (%)
+4,66348,8614,1.265,4,15,21.1
+6,79565,10002,1.516,6,13,31.6
+8,92544,13460,1.764,8,11,42.1

@@ -1,0 +1,5 @@
+﻿Rank,Algorithm,Cost
+1,LKH-3,52470
+2,Nearest Neighbor,54193
+3,Hill-Climbing,61984
+4,Random Search,64795
