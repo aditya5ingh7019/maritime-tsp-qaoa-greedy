@@ -165,8 +165,8 @@ Optional (for best classical baseline):
 
 ## Default execution:
 
-python maritime_tsp_quantum.py
+- python maritime_tsp_quantum.py
 
-Custom configuration:
+- Custom configuration:
 
-python maritime_tsp_quantum.py --layers 3 --steps 300 --start_idx 0
+- python maritime_tsp_quantum.py --layers 3 --steps 300 --start_idx 0
